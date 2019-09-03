@@ -1,0 +1,14 @@
+#Não fazer o upload do diretório de comentários 
+comentarios/
+
+#Não fazer o upload do diretorio util
+util/
+
+#Não fazer o upload dos arquivos com extenção psd
+*.psd
+
+#Não fazer upload do arquivo style.all.css
+style.al.ccs
+
+#Não fazer o upload do arquivo core.js
+core.js
